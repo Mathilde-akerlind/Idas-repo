@@ -4,12 +4,12 @@ export default function TodoList() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      title: "Interstellar",
+      title: "Jurassic park",
     },
 
     {
       id: 2,
-      title: "Jurassic park",
+      title: "Jurassic park 2",
     },
 
     {
