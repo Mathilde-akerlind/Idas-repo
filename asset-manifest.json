@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Idas-repo/static/css/main.a6ef9471.css",
+    "main.js": "/Idas-repo/static/js/main.80a65be3.js",
+    "index.html": "/Idas-repo/index.html",
+    "main.a6ef9471.css.map": "/Idas-repo/static/css/main.a6ef9471.css.map",
+    "main.80a65be3.js.map": "/Idas-repo/static/js/main.80a65be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ef9471.css",
+    "static/js/main.80a65be3.js"
+  ]
+}
